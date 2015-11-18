@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SudokuGenius</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Sudoku">Sudoku!</string>
+    <string name="StartGame">StartGame</string>
+    <color name="yellow">#DEB887</color>
+    <color name="white">#FFF5EE</color>
+    <color name="dark">#050505</color>
+    <color name="bright">#8B7B8B</color>
+    <color name="selected">#1E1E1E</color>
+    <color name="selected1">#64ff8000</color>
+    <color name="what">#666666</color>
+</resources>
